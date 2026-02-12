@@ -1,11 +1,9 @@
 ---
 name: affect-transformation
-description: Transform passive emotions (passions we suffer) into active emotions
-  (affects arising from our own understanding) through Spinoza's method of forming
-  clear and distinct ideas about their causes.
+description: Transform passive emotions (passions we suffer) into active emotions (affects arising from our own understanding) through Spinoza's method of forming clear and distinct ideas about their causes.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - affect-transformation
